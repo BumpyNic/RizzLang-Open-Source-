@@ -1,9 +1,9 @@
 # Rizzlang Programming Language
 
-RizzLang is the easiet version of coding.
+RizzLang is the easiet version of coding. Python is too hard to use, as there are always so many confusing words. Rizzlang is the modern and simplest way to code!
 
 ## Slang Dictionary
-Here's a list of common Rizz keywords and their Python equivalents:
+Here's a list of common Rizzlang keywords and their Python equivalents:
 
 | Rizz Word    | Python Equivalent |
 |--------------|-------------------|
@@ -53,21 +53,38 @@ pip3 install termcolor (for MACOS)
 Once the dependencies are installed, you can start coding in rizzlang!
 
 Example:
-	1.	Create a .rizz file (e.g., main.rizz) with your Rizz code. Here’s a simple example:
+	1. Create a .rizz file (e.g., main.rizz) with your Rizz code. Here’s a simple example of some code in Rizzlang:
 
- flex "Hello, fam!"
+vibe greet(name):
+    bet name == "John":
+        flex "Yo, John!"
+    no cap:
+        flex "Who's there?"
+
 bet slay True:
-    flex "What's good?"
+    greet("John")
 no cap:
-    flex "All good!"
+    greet("Stranger")
+
+vibe add(a, b):
+    dip a + b
+
+flex add(10, 5)
+
+squad i in loop(5):
+    flex "Squad member number " + str(i)
 
 
 ## Step 4: Running the code
 
 Go to your code then open the terminal. Type in "python3 rizz.py main.rizz"
 For the main.rizz part, just put your file name for your code.
+Keep rizz.py the same
 
+After you run the code, it will make a compiler.py, ignore this and you can delete it. The compiler.py will have the python translation 
 
 ## Step 5: Start coding!
 
 Now you are ready to start coding!!!! Are you ready???
+
+PLEASE SHARE THIS TO EVERYONE YOU KNOW!!!
