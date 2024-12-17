@@ -69,7 +69,7 @@ greet("Stranger")
 ## Step 4: Running the code
 
 Go to your code then open the terminal. Type in "python3 rizz.py main.rizz"
-For the main.rizz part, just put your file name for your code.
+For the main.rizz part, just put your file name for the Rizzlang code.
 Keep rizz.py the same
 
 After you run the code, it will make a compiler.py, ignore this and you can delete it. The compiler.py will have the python translation 
