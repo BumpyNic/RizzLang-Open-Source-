@@ -6,31 +6,34 @@
 
 RizzLang uses slang to make coding more relatable and accessible. Here’s a list of common RizzLang keywords and their Python equivalents:
 
-| **Rizz Word** | **Python Equivalent** |
-| ------------- | --------------------- |
-| `rizz`        | `print()`             |
-| `vibe`        | `def`                 |
-| `bet`         | `if`                  |
-| `nobet`       | `elif`                |
-| `nocap`       | `else`                |
-| `squad`       | `for`                 |
-| `grind`       | `while`               |
-| `bounce`      | `break`               |
-| `chill`       | `continue`            |
-| `dip`         | `return`              |
-| `pause`       | `pass`                |
-| `slide`       | `import`              |
-| `block`       | `try`                 |
-| `fade`        | `except`              |
-| `glow`        | `assert`              |
-| `lit`         | `True`                |
-| `sus`         | `False`               |
-| `flexin`      | `len()`               |
-| `loop`        | `range()`             |
-| `fam`         | `in`                  |
-| `slay`        | `not`                 |
-| `real`        | `and`                 |
-| `cap`         | `or`                  |
+### RizzLang Keywords and Python Equivalents
+
+| **RizzLang Keyword** | **Python Equivalent** | **Description**               |
+|-----------------------|-----------------------|--------------------------------|
+| `rizz`               | `print`              | Output a value to the console.|
+| `vibe`               | `def`                | Define a function.            |
+| `bet`                | `if`                 | Start a conditional statement.|
+| `nocap`              | `else`               | Define an alternate condition.|
+| `dip`                | `for`                | Start a loop iteration.       |
+| `grind`              | `while`              | Start a while loop.           |
+| `hump`               | `break`              | Exit a loop.                  |
+| `tryhard`            | `continue`           | Skip the current loop iteration.|
+| `steal`              | `return`             | Return a value from a function.|
+| `skibidi`            | `pass`               | Do nothing (placeholder).     |
+| `fanomtax`           | `import`             | Import a module.              |
+| `goat`               | `try`                | Start a try block.            |
+| `gyat`               | `except`             | Handle exceptions.            |
+| `bang`               | `assert`             | Debugging tool for assertions.|
+| `sigma`              | `True`               | Boolean true value.           |
+| `noaura`             | `False`              | Boolean false value.          |
+| `womp`               | `len`                | Get the length of an object.  |
+| `rage`               | `range`              | Generate a range of numbers.  |
+| `aura`               | `in`                 | Check membership in a collection.|
+| `slay`               | `not`                | Logical NOT operator.         |
+| `fr`                 | `and`                | Logical AND operator.         |
+| `cap`                | `or`                 | Logical OR operator.          |
+| `nogatekeep`         | `nonlocal`           | Modify a variable in an outer scope.|
+| `nerd`               | `math`               | Reference the math module.    |
 
 ## Installation Guide for RizzLang
 
