@@ -1,4 +1,3 @@
-             |
 # RizzLang Programming Language
 
 **RizzLang** is the easiest and most fun way to start coding! Unlike Python, which can feel overwhelming with all its complex keywords, RizzLang simplifies programming using modern words. It’s the modern way to code—without all the confusion. Whether you’re a beginner or just want to have fun with coding, **RizzLang** is for you!
