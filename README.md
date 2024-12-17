@@ -11,7 +11,8 @@ RizzLang uses slang to make coding more relatable and accessible. Here’s a lis
 | `flex`        | `print()`             |
 | `vibe`        | `def`                 |
 | `bet`         | `if`                  |
-| `no cap`      | `else`                |
+| `nobet`       | `elif`                |
+| `nocap`       | `else`                |
 | `squad`       | `for`                 |
 | `grind`       | `while`               |
 | `bounce`      | `break`               |
@@ -63,27 +64,29 @@ Clone the Rizz programming language repository to your local machine using Git.
 pip install termcolor (for Linux and Windows)
 pip3 install termcolor (for MACOS)
 
-## Step 3: Run the Rizz Interpreter
+## Step 3: Run the Rizzlang!
 
 Once the dependencies are installed, you can start coding in rizzlang!
 
 Example:
-	1. Create a .rizz file (e.g., main.rizz) with your Rizz code. Here’s a simple example of some code in Rizzlang:
-
-flex "Hello, fam!"
-
+	1. Create a .rizz file (e.g., main.rizz) with your Rizz code. Here’s a simple example of some code in Rizzlang (Syntax is exactly the same as python):
+ 
 vibe greet(name):
     bet name == "John":
-        flex "Yo, John!"
-    no cap:
-        flex "Who's there?"
+        flex("Yo, John!")
+    nobet name == "Alice":
+        flex("Yo, Alice!")
+    nocap:
+        flex("Who are you?")
 
 greet("John")
+greet("Alice")
 greet("Stranger")
 
 ## Step 4: Running the code
 
-Go to your code then open the terminal. Type in "python3 rizz.py main.rizz"
+MACOS: Go to your code then open the terminal. Type in "python3 rizz.py main.rizz" 
+WINDOWS/LINUX: Go to your code then open the terminal. Type in "python rizz.py main.rizz" 
 For the main.rizz part, just put your file name for the Rizzlang code.
 Keep rizz.py the same
 
