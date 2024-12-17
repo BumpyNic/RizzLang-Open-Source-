@@ -5,6 +5,7 @@ import tokenize
 import io
 import untokenize
 
+#Rizzlang 1.0
 # Remove the compiled file if it exists
 if os.path.exists("compiled.py"):
     os.remove("compiled.py")
