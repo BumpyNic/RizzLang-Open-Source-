@@ -55,25 +55,16 @@ Once the dependencies are installed, you can start coding in rizzlang!
 Example:
 	1. Create a .rizz file (e.g., main.rizz) with your Rizz code. Here’s a simple example of some code in Rizzlang:
 
+flex "Hello, fam!"
+
 vibe greet(name):
     bet name == "John":
         flex "Yo, John!"
     no cap:
         flex "Who's there?"
 
-bet slay True:
-    greet("John")
-no cap:
-    greet("Stranger")
-
-vibe add(a, b):
-    dip a + b
-
-flex add(10, 5)
-
-squad i in loop(5):
-    flex "Squad member number " + str(i)
-
+greet("John")
+greet("Stranger")
 
 ## Step 4: Running the code
 
