@@ -8,7 +8,7 @@ RizzLang uses slang to make coding more relatable and accessible. Here’s a lis
 
 | **Rizz Word** | **Python Equivalent** |
 | ------------- | --------------------- |
-| `flex`        | `print()`             |
+| `rizz`        | `print()`             |
 | `vibe`        | `def`                 |
 | `bet`         | `if`                  |
 | `nobet`       | `elif`                |
@@ -74,11 +74,11 @@ Example:
  
 vibe greet(name):
     bet name == "John":
-        flex("Yo, John!")
+        rizz("Yo, John!")
     nobet name == "Alice":
-        flex("Yo, Alice!")
+        rizz("Yo, Alice!")
     nocap:
-        flex("Who are you?")
+        rizz("Who are you?")
 
 greet("John")
 greet("Alice")
