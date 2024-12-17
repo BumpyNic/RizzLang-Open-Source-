@@ -23,7 +23,7 @@ RizzLang uses slang to make coding more relatable and accessible. Here’s a lis
 | `fanomtax`           | `import`             | Import a module.              |
 | `goat`               | `try`                | Start a try block.            |
 | `gyat`               | `except`             | Handle exceptions.            |
-| `bang`               | `assert`             | Debugging tool for assertions.|
+| `bang`               | `insert`             | Debugging tool for assertions.|
 | `sigma`              | `True`               | Boolean true value.           |
 | `noaura`             | `False`              | Boolean false value.          |
 | `womp`               | `len`                | Get the length of an object.  |
