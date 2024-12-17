@@ -1,38 +1,54 @@
-# Rizzlang Programming Language
+             |
+# RizzLang Programming Language
 
-RizzLang is the easiet version of coding. Python is too hard to use, as there are always so many confusing words. Rizzlang is the modern and simplest way to code!
+**RizzLang** is the easiest and most fun way to start coding! Unlike Python, which can feel overwhelming with all its complex keywords, RizzLang simplifies programming using modern words. It’s the modern way to code—without all the confusion. Whether you’re a beginner or just want to have fun with coding, **RizzLang** is for you!
 
 ## Slang Dictionary
-Here's a list of common Rizzlang keywords and their Python equivalents:
 
-| Rizz Word    | Python Equivalent |
-|--------------|-------------------|
-| `flex`       | `print`           |
-| `vibe`       | `def`             |
-| `bet`        | `if`              |
-| `no cap`     | `else`            |
-| `squad`      | `for`             |
-| `grind`      | `while`           |
-| `bounce`     | `break`           |
-| `chill`      | `continue`        |
-| `dip`        | `return`          |
-| `pause`      | `pass`            |
-| `slide`      | `import`          |
-| `block`      | `try`             |
-| `fade`       | `except`          |
-| `glow`       | `assert`          |
-| `lit`        | `True`            |
-| `sus`        | `False`           |
-| `flexin`     | `len()`           |
-| `loop`       | `range()`         |
-| `fam`        | `in`              |
-| `slay`       | `not`             |
-| `real`       | `and`             |
-| `cap`        | `or`              |
+RizzLang uses slang to make coding more relatable and accessible. Here’s a list of common RizzLang keywords and their Python equivalents:
 
+| **Rizz Word** | **Python Equivalent** |
+| ------------- | --------------------- |
+| `flex`        | `print()`             |
+| `vibe`        | `def`                 |
+| `bet`         | `if`                  |
+| `no cap`      | `else`                |
+| `squad`       | `for`                 |
+| `grind`       | `while`               |
+| `bounce`      | `break`               |
+| `chill`       | `continue`            |
+| `dip`         | `return`              |
+| `pause`       | `pass`                |
+| `slide`       | `import`              |
+| `block`       | `try`                 |
+| `fade`        | `except`              |
+| `glow`        | `assert`              |
+| `lit`         | `True`                |
+| `sus`         | `False`               |
+| `flexin`      | `len()`               |
+| `loop`        | `range()`             |
+| `fam`         | `in`                  |
+| `slay`        | `not`                 |
+| `real`        | `and`                 |
+| `cap`         | `or`                  |
+
+## Installation Guide for RizzLang
+
+### Prerequisites
+
+Before you begin, make sure you have:
+
+- **Python 3.6+** installed on your system. If you don't have it, download and install it from [python.org](https://www.python.org/downloads/).
+- **pip** (Python’s package manager), which should come pre-installed with Python.
+
+### Step 1: Clone the Repository
+
+Clone the RizzLang repository to your local machine using Git:
+git clone https://github.com/yourusername/rizzlang.git
+cd rizzlang
 # Installation Guide for Rizz Programming Language
 
-Follow the steps below to get Rizz up and running on your machine.
+Follow the steps below to get Rizzlang and running on your machine.
 
 ## Prerequisites
 
