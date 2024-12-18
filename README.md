@@ -75,17 +75,10 @@ Example:
 	1. Create a .rizz file (e.g., main.rizz) with your Rizz code. Here’s a simple example of some code in Rizzlang (Syntax is exactly the same as python):
  (Even though some old granpas will not be able to understand it)
  
-vibe greet(name):
-    bet name == "John":
-        rizz("Yo, John!")
-    nobet name == "Alice":
-        rizz("Yo, Alice!")
-    nocap:
-        rizz("Who are you?")
+ 
+rizz("Hello")
 
-greet("John")
-greet("Alice")
-greet("Stranger")
+
 
 ## Step 4: Running the code
 
