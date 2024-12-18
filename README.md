@@ -63,16 +63,12 @@ You will also need `pip` (Python's package manager) to install dependencies. `pi
 
 Clone the Rizz programming language repository to your local machine using Git.
 
-## Step 3: Install Dependencies
-pip install termcolor (for Linux and Windows)
-pip3 install termcolor (for MACOS)
-
-## Step 3: Run the Rizzlang!
+## Step 2: Run the Rizzlang!
 
 Once the dependencies are installed, you can start coding in rizzlang!
 	1. Create a .rizz file (e.g., main.rizz) with your Rizz code (Syntax is exactly the same as python, Even though some old granpas will not be able to understand it
 
-## Step 4: Running the code
+## Step 3: Running the code
 
 MACOS: Go to your code then open the terminal. Type in "python3 rizz.py main.rizz" 
 WINDOWS/LINUX: Go to your code then open the terminal. Type in "python rizz.py main.rizz" 
@@ -81,7 +77,7 @@ Keep rizz.py the same
 
 After you run the code, it will make a compiler.py, ignore this and you can delete it. The compiler.py will have the python translation 
 
-## Step 5: Start coding!
+## Step 4: Start coding!
 
 Now you are ready to start coding!!!! Are you ready???
 
