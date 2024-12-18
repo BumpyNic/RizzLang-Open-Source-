@@ -70,14 +70,9 @@ pip3 install termcolor (for MACOS)
 ## Step 3: Run the Rizzlang!
 
 Once the dependencies are installed, you can start coding in rizzlang!
-
-Example:
-	1. Create a .rizz file (e.g., main.rizz) with your Rizz code. Here’s a simple example of some code in Rizzlang (Syntax is exactly the same as python):
+:
+	1. Create a .rizz file (e.g., main.rizz) with your Rizz code (Syntax is exactly the same as python)
  (Even though some old granpas will not be able to understand it)
- 
- 
-rizz("Hello")
-
 
 
 ## Step 4: Running the code
