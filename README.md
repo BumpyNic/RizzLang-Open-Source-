@@ -70,7 +70,7 @@ Once the dependencies are installed, you can start coding in rizzlang!
 
 ## Step 3: Running the code
 
-MACOS: Go to your code then open the terminal. Type in "python3 rizz.py main.rizz" 
+MACOS: Go to your code then open the terminal. Type in "python3 rizzlang.py main.rizz" 
 WINDOWS/LINUX: Go to your code then open the terminal. Type in "python rizz.py main.rizz" 
 For the main.rizz part, just put your file name for the Rizzlang code.
 Keep rizz.py the same
