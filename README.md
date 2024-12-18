@@ -72,19 +72,6 @@ pip3 install termcolor (for MACOS)
 Once the dependencies are installed, you can start coding in rizzlang!
 	1. Create a .rizz file (e.g., main.rizz) with your Rizz code (Syntax is exactly the same as python, Even though some old granpas will not be able to understand it
 
-### Example Code in RizzLang
-
-Here is an example of how you can write a function in RizzLang to check if a number is even or odd:
-
-vibe check_even_odd(number):
-    bet number % 2 == 0:
-        rizz("Even")
-    nocap:
-        rizz("Odd")
-
-check_even_odd(4)    # Should print "Even"
-check_even_odd(7)    # Should print "Odd"
-
 ## Step 4: Running the code
 
 MACOS: Go to your code then open the terminal. Type in "python3 rizz.py main.rizz" 
